@@ -1,5 +1,5 @@
 # Pastelería Artesanal — Migración a PHP (TP N° 4)
-
+## Rodriguez Diaz Julieta
 ## 1. Título y Descripción del Proyecto
 Proyecto **Pastelería Artesanal** evolucionado desde una maqueta estática hacia **PHP** en el marco del Trabajo Práctico N° 4 (*Migración a PHP, Modularización (SSI) y Renderizado Server-Side (SSR)*). Se implementaron plantillas modulares con `require_once` (`header.php`, `nav.php` y `footer.php`), título de página dinámico y carga de variables de entorno desde `.env` con plantilla `.env.example`.
 
