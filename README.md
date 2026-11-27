@@ -17,7 +17,7 @@ Proyecto **Pastelería Artesanal** evolucionado desde una maqueta estática haci
    ```bash
    git clone <URL-DE-TU-REPOSITORIO-EN-GITHUB>
    cp .env.example .env
-
+   ´´´
 ## 5. Evidencia de Funcionamiento
 ### Servidor Local Ejecutándose
 ![Servidor local ejecutándose](capturas/captura1.jpeg)
