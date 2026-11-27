@@ -3,8 +3,6 @@
 ## 1. Título y Descripción del Proyecto
 Proyecto **Pastelería Artesanal** evolucionado desde una maqueta estática hacia **PHP** en el marco del Trabajo Práctico N° 4 (*Migración a PHP, Modularización (SSI) y Renderizado Server-Side (SSR)*). Se implementaron plantillas modulares con `require_once` (`header.php`, `nav.php` y `footer.php`), título de página dinámico y carga de variables de entorno desde `.env` con plantilla `.env.example`.
 
-## 2. Enlace al Prototipo de Figma
-
 
 ## 3. Tecnologías Utilizadas
 - HTML5
