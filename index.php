@@ -1,5 +1,7 @@
 <?php
 $titulo_pagina = "Inicio - Pastelería Artesanal";
+require_once 'config.php';
+$titulo_pagina = "Inicio - " . $config['APP_NAME'];
 require_once 'includes/header.php';
 ?>
 

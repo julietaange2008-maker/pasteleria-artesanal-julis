@@ -78,6 +78,13 @@
             color: var(--accent);
         }
 
+        nav a.active {
+    color: var(--primary);
+    font-weight: 700;
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 2px;
+}
+
         .btn-header {
             background-color: var(--primary);
             color: white;
